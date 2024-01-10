@@ -1,6 +1,4 @@
 
-
-**************************************************************************************************************
 <p align="center">
 👋 Hello World!👋  
      <br>
@@ -15,44 +13,42 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 * Systems Analyst
 * I have 10 years, 9 months of experience in the IT field
 
-
+**************************************************************************************************************
 ## **💬 My skills:**
 
 <p align="center" >
   
 ![JEST](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 ![TESTING LIBRARY](https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red)
-![POSTMAN](https://voyager.postman.com/logo/postman-logo-icon-orange.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![DOTNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![VISUAL STUDIO](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![JAVA SCRIPT](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![POSTMAN](https://voyager.postman.com/logo/postman-logo-icon-orange.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PY](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 
 
-
-
-<input type="file">
-
 </p>
 
-## **🚀 Meus trabalhos recentes:**
+**************************************************************************************************************
 
+
+## **🚀 Meus trabalhos recentes**:
 
 <p align="center" >
 
-<table border="1">
+<table border="6">
+
 <colgroup>
 <col><col align="char" char=".">
 <thead>
 <tr><th> PROJETOS: </th><th>Projeto:</th></tr>
 <tbody>
 
-
-     
 
 <tr><td>🤖CADASTRO_USUARIO_VB6:    </td><td> 👉<a href="https://github.com/ClevertonR/Cadastro-de-usu-rio-VB6"> 💾</a>   </td></tr>
 <tr><td>🤖RELATORIO WINDOWS_VB6:   </td><td> 👉<a href="https://github.com/ClevertonR/Relatorios/tree/main"> 💾</a>      </td></tr>
@@ -64,17 +60,14 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 <tr><td>🤖API-TESTES2:             </td><td> 👉<a href="https://github.com/ClevertonR/API-TESTES2"> 💾</a>                  </td></tr>
 <tr><td>🤖SCANTECH-PROJETOS:       </td><td> 👉<a href="https://github.com/ClevertonR/SCANTECH-PROJETO"> 💾</a>             </td></tr>
 
-
 </tbody>
 </table>
 
 </p>
 
-**************************************************************************************************************
-
-                                                              🖱️ MEUS CONTATOS 🖱️
-
-***************************************************************************************************************
+                                                           
+***************************************************************************************************************                                                              
+## 🖱️ MEUS CONTATOS :
      
 <p align="center">
     <a href="https://twitter.com/ClebimRodrigues">
@@ -99,5 +92,8 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 <p align="center" >
 
 ![Cleverton Rodrigues](https://github-readme-stats.vercel.app/api?username=ClevertonR&show_icons=true&theme=dark)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
 
 </p>
+
+
