@@ -9,7 +9,9 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 
 
 * Cleverton Rodrigues, 34 years
+* Software Test Analyst -PL
 * QA Engineer
+* Software Quality Assurance
 * Systems Analyst
 * I have 10 years, 9 months of experience in the IT field
 
