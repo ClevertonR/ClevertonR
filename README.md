@@ -60,7 +60,7 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 <tr><td>🤖PETSTORE:                </td><td> 👉<a href="https://github.com/ClevertonR/PetStore"> 💾</a>                     </td></tr>
 <tr><td>🤖REQUESTS-POSTMAN:        </td><td> 👉<a href="https://github.com/ClevertonR/REQUESTS-POSTMAN"> 💾</a>             </td></tr>
 <tr><td>🤖API-TESTES2:             </td><td> 👉<a href="https://github.com/ClevertonR/API-TESTES2"> 💾</a>                  </td></tr>
-<tr><td>🤖SCANTECH-PROJETOS:       </td><td> 👉<a href="https://github.com/ClevertonR/SCANTECH-PROJETO"> 💾</a>             </td></tr>
+<tr><td>🤖CORDOVA-PROJETOS:       </td><td> 👉<a href="https://github.com/ClevertonR/SCANTECH-PROJETO"> 💾</a>             </td></tr>
 
 </tbody>
 </table>
