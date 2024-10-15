@@ -8,7 +8,7 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 **************************************************************************************************************
 
 
-* Cleverton Rodrigues, 34 years
+* Cleverton Rodrigues, 36 years
 * Software Test Analyst -PL
 * QA Engineer
 * Software Quality Assurance
@@ -58,6 +58,7 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 <tr><td>🤖Gerenciador de Tarefas:</td><td> 👉<a href="https://github.com/ClevertonR/TAREFAS/blob/main/README.md"> 💾</a>   </td></tr>
 <tr><td>🤖REGISTRAR_VB:    </td><td> 👉<a href="https://github.com/ClevertonR/Registrar/tree/main"> 💾</a>   </td></tr>
 <tr><td>🤖Lista de Compras:    </td><td> 👉<a href="https://github.com/ClevertonR/Lista"> 💾</a>   </td></tr>
+<tr><td>🤖Projeto AlexaBR:    </td><td> 👉<a href="https://github.com/ClevertonR/gravadorCR"> 💾</a>   </td></tr>
 <tr><td>🤖CADASTRO_USUARIO_VB6:    </td><td> 👉<a href="https://github.com/ClevertonR/Cadastro-de-usu-rio-VB6"> 💾</a>   </td></tr>
 <tr><td>🤖RELATORIO WINDOWS_VB6:   </td><td> 👉<a href="https://github.com/ClevertonR/Relatorios/tree/main"> 💾</a>      </td></tr>
 <tr><td>🤖NEWMAN-API:              </td><td> 👉<a href="https://github.com/ClevertonR/newman"> 💾</a>                       </td></tr>
